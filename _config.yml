@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pin
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars

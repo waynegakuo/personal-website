@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,19 +28,19 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: Wayne Jotham Gakuo
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: wayne_gakuo
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: Wayne Jotham Gakuo
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: wayne_gakuo
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url

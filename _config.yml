@@ -47,13 +47,13 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Vue JS
+  - name: Angular
     web_url: https://github.com/topics/angular
-    image_url: https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
     
   - name: JavaScript
     web_url: https://github.com/topics/javascript
-    image_url: https://repository-images.githubusercontent.com/126577260/3c924980-61ac-11e9-8e4e-6e50e0cec366
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
     
   - name: Laravel
     web_url: https://github.com/topics/laravel

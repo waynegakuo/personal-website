@@ -67,6 +67,6 @@ topics:
     web_url: https://github.com/expressjs/express
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png
 
-  - name: Google Cloud with Node
+  - name: Google Cloud with Node JS
     web_url: https://github.com/googleapis/google-cloud-node
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png

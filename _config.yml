@@ -44,7 +44,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: https://www.youtube.com/channel/UCuUBgc12v8XdqJ0sef2IqsQ?view_as=subscriber
 
 topics:
   - name: Angular
